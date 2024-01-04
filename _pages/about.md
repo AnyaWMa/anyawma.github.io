@@ -16,7 +16,9 @@ Prior to Stanford, I was a middle school Chemistry teacher in Brooklyn, NY. My p
 
 My current CV is available for download [here](https://anyawma.github.io/files/CV_2024_Ma.pdf).
 
-## Selected Publications
+# Selected Publications
+Note: *These authors contributed equally to this work
+
 **Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka K., Chou, C., Domingue, B., Yeatman, J. D. (2023, September). ROAR-CAT: Rapid Online Assessment of Reading ability through computerized adaptive testing. [Preprint](https://osf.io/preprints/psyarxiv/7tpx2/)
 
 Zelikman, E.*, **Ma, W. A.** *, Tran, J. E., Yang, D., Yeatman, J. D., Haber, N. (2023). Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency. 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP. [PDF](https://aclanthology.org/2023.emnlp-main.135/)

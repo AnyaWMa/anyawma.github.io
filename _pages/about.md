@@ -15,3 +15,12 @@ In 2023, I was awarded as the [Stanford Interdisciplinary Graduate Fellow](https
 Prior to Stanford, I was a middle school Chemistry teacher in Brooklyn, NY. My previous research focused on science education and learning analytics under the guidance of [Susan Kirch](https://www.researchgate.net/profile/Susan-Kirch), [Camillia Matuk](https://steinhardt.nyu.edu/people/camillia-matuk), and [Ryan Baker](https://www.gse.upenn.edu/academics/faculty-directory/baker).
 
 My current CV is available for download [here](https://anyawma.github.io/files/CV_2024_Ma.pdf).
+
+## Selected Publications
+**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka K., Chou, C., Domingue, B., Yeatman, J. D. (2023, September). ROAR-CAT: Rapid Online Assessment of Reading ability through computerized adaptive testing. [Preprint](https://osf.io/preprints/psyarxiv/7tpx2/)
+
+Zelikman, E.*, **Ma, W. A.** *, Tran, J. E., Yang, D., Yeatman, J. D., Haber, N. (2023). Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency. 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP. [PDF](https://aclanthology.org/2023.emnlp-main.135/)
+
+Matuk, C., **Ma, W.**, Sharma, G., Linn, M. C. (2019). The Lifespan and impact of students’ ideas shared during classroom science inquiry. In K. Lund, G. P. Niccolai, E. Lavoué, C. E. Hmelo-Silver, G. Gweon, M. Baker (Eds.), A Wide Lens: Combining Embodied, Enactive, Extended, and Embedded Learning in Collaborative Settings, 13th International Conference on Computer Supported Collaborative Learning (CSCL) 2019 (Vol. 1, pp. 49-56). Lyon, France: International Society of the Learning Sciences. [PDF](https://repository.isls.org/bitstream/1/4444/1/49-56.pdf) **Best Paper Nomination**
+
+**Ma, W.** (2017). A computer tool that will allow secondary science teachers to differentiate reading materials for students with varied reading abilities. In M. J. Mohr-Schroeder J. N. Thomas (Eds.), Proceedings of the 116th Annual Convention of the School Science and Mathematics Association (Vol. 4, pp. 14-21).[PDF](https://www.ssma.org/assets/Proceedings/Proceedings2017FINALWeb.pdf#page=15)

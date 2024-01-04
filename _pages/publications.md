@@ -33,13 +33,3 @@ Kirch, S. A., Sabouri, P., Zhang, M., **Ma, W.** (2019). Theory-based design of 
 
 ## Software
 jsCAT: Computer Adaptive Testing in JavaScript https://www.npmjs.com/package/@bdelab/jscat
-
-`{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}`

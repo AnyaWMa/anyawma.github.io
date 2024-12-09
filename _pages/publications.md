@@ -7,9 +7,9 @@ author_profile: true
 *These authors contributed equally to this work
 
 ## Journal Papers
-Tran, J. E.*, Yeatman, J. D.*, Burkhardt, A., **Ma, W. A.**, Mitchell, J., Yablonski, M., Townley-Flores, C., Richie-Halford, A. (2023, December). Development and validation of a rapid online sentence reading efficiency assessment. [Prepint](https://doi.org/10.31219/osf.io/u3mjz)
+**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka, K., Chou, C., Domingue, B., & Yeatman, J. D. (2024). Roar-cat: Rapid online assessment of reading ability with computerized adaptive testing. Behavior Research Methods [Accepted]. (https://osf.io/preprints/psyarxiv/7tpx2)
 
-**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka K., Chou, C., Domingue, B., Yeatman, J. D. (2023, September). ROAR-CAT: Rapid Online Assessment of Reading ability through computerized adaptive testing. [Preprint](https://osf.io/preprints/psyarxiv/7tpx2/)
+Yeatman, J. D., Tran, J. E., Burkhardt, A. K., Ma, W. A., Mitchell, J., Yablonski, M., Townley-Flores, C., Richie-Halford, A. Development and validation of a rapid and precise online sentence reading efficiency assessment. In Frontiers in Education (Vol. 9, p. 1494431). Frontiers.[Acceoted](https://doi.org/10.31219/osf.io/u3mjz)
 
 Gijbels, L., Burkhardt, A., **Ma, W. A.**, & Yeatman, J. D. (2023, February). Rapid Online Assessment of Reading and Awareness (ROAR-PA). [Preprint](https://doi.org/10.31234/osf.io/5z2gh)
 

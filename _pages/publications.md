@@ -7,11 +7,11 @@ author_profile: true
 *These authors contributed equally to this work
 
 ## Journal Papers
-**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka, K., Chou, C., Domingue, B., & Yeatman, J. D. (2024). Roar-cat: Rapid online assessment of reading ability with computerized adaptive testing. Behavior Research Methods [Accepted]. (https://osf.io/preprints/psyarxiv/7tpx2)
+**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka, K., Chou, C., Domingue, B., & Yeatman, J. D. (2024). Roar-cat: Rapid online assessment of reading ability with computerized adaptive testing. Behavior Research Methods (Accepted) [PDF](https://osf.io/preprints/psyarxiv/7tpx2)
 
-Yeatman, J. D., Tran, J. E., Burkhardt, A. K., Ma, W. A., Mitchell, J., Yablonski, M., Townley-Flores, C., Richie-Halford, A. Development and validation of a rapid and precise online sentence reading efficiency assessment. In Frontiers in Education (Vol. 9, p. 1494431). Frontiers.[Acceoted](https://doi.org/10.31219/osf.io/u3mjz)
+Yeatman, J. D., Tran, J. E., Burkhardt, A. K., Ma, W. A., Mitchell, J., Yablonski, M., Townley-Flores, C., Richie-Halford, A. Development and validation of a rapid and precise online sentence reading efficiency assessment. In Frontiers in Education (Vol. 9, p. 1494431). Frontiers.[PDF](https://doi.org/10.31219/osf.io/u3mjz)
 
-Gijbels, L., Burkhardt, A., **Ma, W. A.**, & Yeatman, J. D. (2023, February). Rapid Online Assessment of Reading and Awareness (ROAR-PA). [Preprint](https://doi.org/10.31234/osf.io/5z2gh)
+Gijbels, L., Burkhardt, A., **Ma, W. A.**, & Yeatman, J. D. (2024). Rapid online assessment of reading and phonological awareness (ROAR-PA). Scientific Reports, 14(1), 10249.[PDF](https://www.nature.com/articles/s41598-024-60834-9)
 
 ## Peer-Reviewed Conference Proceedings
 Zelikman, E.*, **Ma, W. A.** *, Tran, J. E., Yang, D., Yeatman, J. D., Haber, N. (2023). Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency. 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP. [PDF](https://aclanthology.org/2023.emnlp-main.135/)

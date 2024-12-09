@@ -21,7 +21,7 @@ My current CV is available for download [here](https://anyawma.github.io/files/C
 # Selected Publications
 Note: *These authors contributed equally to this work
 
-**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka, K., Chou, C., Domingue, B., & Yeatman, J. D. (2024). Roar-cat: Rapid online assessment of reading ability with computerized adaptive testing. Behavior Research Methods [Accepted]. (https://osf.io/preprints/psyarxiv/7tpx2)
+**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka, K., Chou, C., Domingue, B., & Yeatman, J. D. (2024). Roar-cat: Rapid online assessment of reading ability with computerized adaptive testing. Behavior Research Methods [Accepted](https://osf.io/preprints/psyarxiv/7tpx2)
 
 Zelikman, E.*, **Ma, W. A.** *, Tran, J. E., Yang, D., Yeatman, J. D., Haber, N. (2023). Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency. 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP. [PDF](https://aclanthology.org/2023.emnlp-main.135/)
 

@@ -16,12 +16,12 @@ In 2024, I interned at ETS Research Institute.
 
 Prior to Stanford, I was a middle school Chemistry teacher in Brooklyn, NY. My previous research focused on science education and learning analytics under the guidance of [Susan Kirch](https://www.researchgate.net/profile/Susan-Kirch), [Camillia Matuk](https://steinhardt.nyu.edu/people/camillia-matuk), and [Ryan Baker](https://www.gse.upenn.edu/academics/faculty-directory/baker).
 
-My current CV is available for download [here](https://anyawma.github.io/files/CV_Research_Current_Ma.pdf).
+My current CV is available for download [here](https://anyawma.github.io/files/CV_Research_2025_Ma.pdf).
 
 # Selected Publications
 Note: *These authors contributed equally to this work
 
-**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka, K., Chou, C., Domingue, B., & Yeatman, J. D. (2024). Roar-cat: Rapid online assessment of reading ability with computerized adaptive testing. Behavior Research Methods [Accepted](https://osf.io/preprints/psyarxiv/7tpx2)
+**Ma, W. A.**, Richie-Halford, A., Burkhardt, A. K., Kanopka, K., Chou, C., Domingue, B. W., & Yeatman, J. D. (2025). ROAR-CAT: Rapid Online Assessment of Reading ability with Computerized Adaptive Testing. Behavior Research Methods, 57(1), 1-17. [PDF](https://doi.org/10.3758/s13428-024-02578-y)
 
 Zelikman, E.*, **Ma, W. A.** *, Tran, J. E., Yang, D., Yeatman, J. D., Haber, N. (2023). Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency. 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP. [PDF](https://aclanthology.org/2023.emnlp-main.135/)
 

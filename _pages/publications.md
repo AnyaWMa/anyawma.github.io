@@ -7,7 +7,7 @@ author_profile: true
 *These authors contributed equally to this work
 
 ## Journal Papers
-**Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka, K., Chou, C., Domingue, B., & Yeatman, J. D. (2024). Roar-cat: Rapid online assessment of reading ability with computerized adaptive testing. Behavior Research Methods (Accepted). [PDF](https://osf.io/preprints/psyarxiv/7tpx2)
+**Ma, W. A.**, Richie-Halford, A., Burkhardt, A. K., Kanopka, K., Chou, C., Domingue, B. W., & Yeatman, J. D. (2025). ROAR-CAT: Rapid Online Assessment of Reading ability with Computerized Adaptive Testing. Behavior Research Methods, 57(1), 1-17. [PDF](https://doi.org/10.3758/s13428-024-02578-y)
 
 Yeatman, J. D.*, Tran, J. E.*, Burkhardt, A. K., **Ma, W. A.**, Mitchell, J., Yablonski, M., Townley-Flores, C., Richie-Halford, A. Development and validation of a rapid and precise online sentence reading efficiency assessment. In Frontiers in Education (Vol. 9, p. 1494431). Frontiers.[PDF](https://doi.org/10.31219/osf.io/u3mjz)
 

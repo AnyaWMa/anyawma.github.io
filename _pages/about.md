@@ -19,8 +19,9 @@ Prior to Stanford, I was a middle school Chemistry teacher in Brooklyn, NY. My p
 My current **CV** is available for download [here](https://anyawma.github.io/files/CV_Research_2025_Ma.pdf).
 
 # Education 
-M.S.Ed, University of Pennsylvania, Learning Sciences and Technologies (2019)
-B.S., New York University, Computer Science, Teaching Chemistry 7–12 (with Honors) (2018)
+M.S.Ed, **University of Pennsylvania**, Learning Sciences and Technologies (2019)
+
+B.S., **New York University**, Computer Science, Teaching Chemistry 7–12 (with Honors) (2018)
 
 # Selected Publications
 Note: *These authors contributed equally to this work

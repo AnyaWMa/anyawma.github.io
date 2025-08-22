@@ -14,14 +14,14 @@ My current research, as part of [Rapid Online Assessment of Reading](https://roa
 
 In 2023, I was awarded as the [Stanford Interdisciplinary Graduate Fellow](https://vpge.stanford.edu/fellowships-funding/sigf/fellows/2023). In 2024, I interned at ETS Research Institute. In 2025, I was selected as the [Stanford HAI Graduate Fellow](https://hai.stanford.edu/). My research has recieved awards from the [Psychometric Society](https://www.psychometricsociety.org/poster-award) and [National Council on Measurement in Education](https://www.ncme.org/home), and has been featured at the [Psychonomic Society](https://featuredcontent.psychonomic.org/the-roar-cats-out-of-the-bag-a-reliable-efficient-reading-assessment/). 
 
-Prior to Stanford, I was a middle school Chemistry teacher in Brooklyn, NY. My previous research focused on science education and learning analytics under the guidance of [Susan Kirch](https://www.researchgate.net/profile/Susan-Kirch), [Camillia Matuk](https://steinhardt.nyu.edu/people/camillia-matuk), and [Ryan Baker](https://www.gse.upenn.edu/academics/faculty-directory/baker).
+Prior to Stanford, I was a middle school Chemistry teacher in Brooklyn, NY. My previous research focused on science education and learning analytics under the guidance of Susan Kirch, [Camillia Matuk](https://steinhardt.nyu.edu/people/camillia-matuk), and [Ryan Baker](https://learninganalytics.upenn.edu/index.html).
 
 My current **CV** is available for download [here](https://anyawma.github.io/files/CV_Research_2025_Ma.pdf).
 
 # Education 
-M.S.Ed, **University of Pennsylvania**, Learning Sciences and Technologies (2019)
+2018, M.S.Ed in Learning Sciences and Technologies, University of Pennsylvania
 
-B.S., **New York University**, Computer Science, Teaching Chemistry 7–12 (with Honors) (2018)
+2019, B.S. in Computer Science and Teaching Chemistry 7–12 (with Honors), New York University
 
 # Selected Publications
 Note: *These authors contributed equally to this work

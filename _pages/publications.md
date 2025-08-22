@@ -14,13 +14,26 @@ Yeatman, J. D.*, Tran, J. E.*, Burkhardt, A. K., **Ma, W. A.**, Mitchell, J., Ya
 Gijbels, L., Burkhardt, A., **Ma, W. A.**, & Yeatman, J. D. (2024). Rapid online assessment of reading and phonological awareness (ROAR-PA). Scientific Reports, 14(1), 10249.[PDF](https://www.nature.com/articles/s41598-024-60834-9)
 
 ## Peer-Reviewed Conference Proceedings
+**Ma, W. A.**, Flor, M., & Wang, Z. (2025). Automatic generation of inference making questions for
+reading comprehension assessments. 20th Workshop on Innovative Use of NLP for Building Educational
+Applications. [PDF](https://aclanthology.org/anthology-files/pdf/bea/2025.bea-1.31.pdf)
+
+Tan, A. W. M., Yu, S., Long, B., **Ma, W. A.**, Murray, T., Silverman, R. D., Yeatman, J. D., & Frank, M. C. (2024). Devbench: A multimodal developmental benchmark for language learning. Advances in Neural Information Processing Systems. [PDF](https://doi.org/https://arxiv.org/abs/2406.10215)
+
 Zelikman, E.*, **Ma, W. A.** *, Tran, J. E., Yang, D., Yeatman, J. D., Haber, N. (2023). Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency. 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP. [PDF](https://aclanthology.org/2023.emnlp-main.135/)
 
 Matuk, C., **Ma, W.**, Sharma, G., Linn, M. C. (2019). The Lifespan and impact of students’ ideas shared during classroom science inquiry. In K. Lund, G. P. Niccolai, E. Lavoué, C. E. Hmelo-Silver, G. Gweon, M. Baker (Eds.), A Wide Lens: Combining Embodied, Enactive, Extended, and Embedded Learning in Collaborative Settings, 13th International Conference on Computer Supported Collaborative Learning (CSCL) 2019 (Vol. 1, pp. 49-56). Lyon, France: International Society of the Learning Sciences. [PDF](https://repository.isls.org/bitstream/1/4444/1/49-56.pdf) **Best Paper Nomination**
 
 **Ma, W.** (2017). A computer tool that will allow secondary science teachers to differentiate reading materials for students with varied reading abilities. In M. J. Mohr-Schroeder J. N. Thomas (Eds.), Proceedings of the 116th Annual Convention of the School Science and Mathematics Association (Vol. 4, pp. 14-21).[PDF](https://www.ssma.org/assets/Proceedings/Proceedings2017FINALWeb.pdf#page=15)
 
-## Conference Presentations
+## Selected Conference Presentations
+**Ma, W. A.**, Fuentes, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A.,
+Domingue, B. W., & Yeatman, J. D. Exploring effects of trial by trial feedback on validity of dyslexia screening [Poster]. In: Annual Meeting of the National Council on Measurement in Education. 2025. **Best Graduate Student Poster Award**
+
+**Ma, W. A.**, & Domingue, B. W. A comparison of the predictive performance of continuous and
+dichotomous latent trait models. In: Annual Meeting of the National Council on Measurement in
+Education. 2025.
+
 Tran, J. E., **Ma, W. A.**, Gijbels, L., Townley-Flores, C., Siebert, J., Tran, J. E., Murray, T., Fuentes-Jimenez, M.,   Ramamurthy,   M., Richie-Halford, A., & Yeatman, J. (2023). Rapid Online Assessment of Reading (ROAR): A platform for developmental cognitive neuroscience research at an unprecedented scale [Poster]. Flux Congress, Santa Rosa, CA, United States.
 
 **Ma, W. A.**, Richie-Halford, A., Burkhardt, A., Kanopka K., Chou, C., Domingue, B., Yeatman, J. D. (2023). ROAR-CAT: Rapid Online Assessment of Reading ability through computerized adaptive testing [Poster]. International Meeting of Psychometric Society 2023, Maryland, the USA. **Distinguished Poster Award**

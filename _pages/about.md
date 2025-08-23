@@ -20,16 +20,14 @@ My current **CV** is available for download [here](https://anyawma.github.io/fil
 
 # Education 
 
-**Ph.D. in Education** (Expected 2026)  
+**Ph.D. in Education and Ph.D. Minor in Computer Science** (Expected 2026)  
 Stanford University 
-*PhD Minor in Computer Science*
 
 **M.S.Ed. in Learning Sciences and Technologies** (2018)  
 University of Pennsylvania
 
 **B.S. in Computer Science and Teaching Chemistry 7–12** (2019)  
 New York University  
-*Graduated with Honors*
 
 # Selected Publications
 Note: *These authors contributed equally to this work

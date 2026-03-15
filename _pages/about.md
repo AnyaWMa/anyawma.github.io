@@ -16,7 +16,7 @@ In 2023, I was awarded as the [Stanford Interdisciplinary Graduate Fellow](https
 
 Prior to Stanford, I was a middle school Chemistry teacher in Brooklyn, NY. My previous research focused on science education and learning analytics under the guidance of Susan Kirch, [Camillia Matuk](https://steinhardt.nyu.edu/people/camillia-matuk), and [Ryan Baker](https://learninganalytics.upenn.edu/index.html).
 
-My current **CV** is available for download [here](https://anyawma.github.io/files/CV_Research_2025_Ma.pdf).
+My current **CV** is available for download [here](https://anyawma.github.io/files/CV_Research_2026_Ma.pdf).
 
 # Education 
 
@@ -32,6 +32,8 @@ New York University
 # Selected Publications
 Note: *These authors contributed equally to this work
 
+**Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (In press). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://osf.io/preprints/psyarxiv/4uag6_v2)
+
 **Ma, W. A.**, Richie-Halford, A., Burkhardt, A. K., Kanopka, K., Chou, C., Domingue, B. W., & Yeatman, J. D. (2025). ROAR-CAT: Rapid Online Assessment of Reading ability with Computerized Adaptive Testing. Behavior Research Methods, 57(1), 1-17. [PDF](https://doi.org/10.3758/s13428-024-02578-y)
 
 **Ma, W. A.**, Flor, M., & Wang, Z. (2025). Automatic generation of inference making questions for
@@ -39,7 +41,5 @@ reading comprehension assessments. 20th Workshop on Innovative Use of NLP for Bu
 Applications. [PDF](https://aclanthology.org/anthology-files/pdf/bea/2025.bea-1.31.pdf)
 
 **Ma, W. A.**, Liu, Y., Kanopka, K., W. M., & Domingue, B. W. (2025) A comparison of the predictive performance of continuous and class-based latent trait models. [PDF](https://osf.io/preprints/psyarxiv/acwdz_v1)
-
-**Ma, W. A.**, Fuentes-Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (2025). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. [PDF](https://osf.io/preprints/psyarxiv/4uag6_v2)
 
 Zelikman, E.*, **Ma, W. A.** *, Tran, J. E., Yang, D., Yeatman, J. D., Haber, N. (2023). Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency. 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP. [PDF](https://aclanthology.org/2023.emnlp-main.135/)

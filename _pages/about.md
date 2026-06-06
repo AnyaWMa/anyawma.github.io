@@ -34,7 +34,7 @@ Note: *These authors contributed equally to this work
 
 **Ma, W. A.**, Domingue, B. W., Lichand, G., Roncete, K., Klotz, L., Townley-Flores, C., Richie-Halford, A., & Yeatman, J. D. (2026). From the Lab to the Classroom: Bridging Psychophysics and Psychometrics to Improve Adaptive Dyslexia Screening. OSF Preprints. [PDF](https://osf.io/preprints/psyarxiv/4rg5a_v1)
 
-**Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (In press). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://doi.org/10.1037/pas0001474)
+**Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (2026). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://doi.org/10.1037/pas0001474)
 
 **Ma, W. A.**, Richie-Halford, A., Burkhardt, A. K., Kanopka, K., Chou, C., Domingue, B. W., & Yeatman, J. D. (2025). ROAR-CAT: Rapid Online Assessment of Reading ability with Computerized Adaptive Testing. Behavior Research Methods, 57(1), 1-17. [PDF](https://doi.org/10.3758/s13428-024-02578-y)
 

@@ -7,9 +7,9 @@ author_profile: true
 *These authors contributed equally to this work
 
 ## Journal Articles
-**Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (in press). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://doi.org/10.1037/pas0001474)
+**Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (2026). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://doi.org/10.1037/pas0001474)
 
-Smith, G., Bassoli, E., Ozturk, Y., Arteaga-Garcia, E., **Ma, W. A.**, ROAR Data Consortium, I-RiD Consortium, Yeatman, J. D., Mastrogiuseppe, M., & Caffarra, S. (2026). Similarities (and differences) in the learning patterns of single-word reading of an alphabetic orthography in monolingual and bilingual primary school children: A cross-sectional study. Brain Sciences, 16(4), 356.
+Smith, G., Bassoli, E., Ozturk, Y., Arteaga-Garcia, E., **Ma, W. A.**, ROAR Data Consortium, I-RiD Consortium, Yeatman, J. D., Mastrogiuseppe, M., & Caffarra, S. (2026). Similarities (and differences) in the learning patterns of single-word reading of an alphabetic orthography in monolingual and bilingual primary school children: A cross-sectional study. Brain Sciences, 16(4), 356. [PDF](https://www.mdpi.com/2076-3425/16/4/356)
 
 **Ma, W. A.**, Richie-Halford, A., Burkhardt, A. K., Kanopka, K., Chou, C., Domingue, B. W., & Yeatman, J. D. (2025). ROAR-CAT: Rapid Online Assessment of Reading ability with Computerized Adaptive Testing. Behavior Research Methods, 57(1), 1-17. [PDF](https://doi.org/10.3758/s13428-024-02578-y)
 

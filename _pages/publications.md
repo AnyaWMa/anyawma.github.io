@@ -7,7 +7,7 @@ author_profile: true
 *These authors contributed equally to this work
 
 ## Journal Articles
-**Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (in press). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://doi.org/10.31234/osf.io/4uag6_v2)
+**Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (in press). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://doi.org/10.1037/pas0001474)
 
 Smith, G., Bassoli, E., Ozturk, Y., Arteaga-Garcia, E., **Ma, W. A.**, ROAR Data Consortium, I-RiD Consortium, Yeatman, J. D., Mastrogiuseppe, M., & Caffarra, S. (2026). Similarities (and differences) in the learning patterns of single-word reading of an alphabetic orthography in monolingual and bilingual primary school children: A cross-sectional study. Brain Sciences, 16(4), 356.
 

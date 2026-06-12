@@ -7,6 +7,10 @@ author_profile: true
 *These authors contributed equally to this work
 
 ## Journal Articles
+**Ma, W. A.**, Liu, Y., Kanopka, K., Ma, W., & Domingue, B. W. (In press). A comparison of the predictive performance of continuous and class-based latent trait models. Psychological Methods. [PDF](https://osf.io/preprints/psyarxiv/acwdz_v1)
+
+Siebert, J. M., Fuentes-Jimenez, M., **Ma, W. A.**, Saavedra, A., Townley-Flores, C., & Yeatman, J. (In press). A fair lexical decision task for monolingual and multilingual Spanish-speakers. Frontiers in Psychology. [PDF](https://osf.io/preprints/psyarxiv/qfdpb)
+
 **Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (2026). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://doi.org/10.1037/pas0001474)
 
 Smith, G., Bassoli, E., Ozturk, Y., Arteaga-Garcia, E., **Ma, W. A.**, ROAR Data Consortium, I-RiD Consortium, Yeatman, J. D., Mastrogiuseppe, M., & Caffarra, S. (2026). Similarities (and differences) in the learning patterns of single-word reading of an alphabetic orthography in monolingual and bilingual primary school children: A cross-sectional study. Brain Sciences, 16(4), 356. [PDF](https://www.mdpi.com/2076-3425/16/4/356)
@@ -35,15 +39,11 @@ Matuk, C., **Ma, W.**, Sharma, G., & Linn, M. C. (2019). The lifespan and impact
 
 Long, B., **Ma, W. A.**, Tan, A. W. M., Silverman, R., Frank, M. C., & Yeatman, J. D. (2025). Developmental changes in the precision of visual concept knowledge. [PDF](https://doi.org/10.31234/osf.io/nbj62_v1)
 
-**Ma, W. A.**, Liu, Y., Kanopka, K., Ma, W., & Domingue, B. W. (2025). A comparison of the predictive performance of continuous and class-based latent trait models. [PDF](https://osf.io/preprints/psyarxiv/acwdz_v1)
-
 Roncete, K., Klotz, L., **Ma, W. A.**, Arteaga, E., Alves, L., Chrispim, R., Diniz, D., Yeatman, J., & Lichand, G. (2025). The opportunities and challenges of digital assessments in low-resource settings: Evidence from measuring reading fluency in Brazil. [PDF](https://doi.org/10.21203/rs.3.rs-5516837/v1)
 
 Bhat, K. G., Mogan, A. D., Saavedra, A., Fuentes-Jimenez, M., Siebert, J. M., **Ma, W. A.**, Townley-Flores, C., Richie-Halford, A., Wilkey, E. D., & Yeatman, J. (2024). Shared and unique influences of phonological processing on reading and math. [PDF](https://doi.org/10.31219/osf.io/em3bg)
 
 He-Yueya, J., **Ma, W. A.**, Gandhi, K., Domingue, B. W., Brunskill, E., & Goodman, N. D. (2024). Psychometric alignment: Capturing human knowledge distributions via language models. [PDF](https://arxiv.org/abs/2407.15645)
-
-Siebert, J. M., Fuentes-Jimenez, M., **Ma, W. A.**, Saavedra, A., Townley-Flores, C., & Yeatman, J. (2024). A fair lexical decision task for monolingual and multilingual Spanish-speakers. [PDF](https://osf.io/preprints/psyarxiv/qfdpb)
 
 ## Open Software
 **Ma, W. A.**, Yeatman, J. D., & Richie-Halford, A. (2023). jsCAT: Computer adaptive testing in JavaScript [Open-source software]. [GitHub](https://github.com/yeatmanlab/jsCAT)

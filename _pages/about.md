@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Learning Sciences and Technology Design at [Stanford Graduate School of Education](https://ed.stanford.edu/) with a PhD Minor in Computer Science. I am advised by [Jason Yeatman](https://ed.stanford.edu/faculty/jyeatman), [Nick Haber](https://ed.stanford.edu/faculty/nhaber), and [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu). I am broadly interested in **psychometrics**, **reading**, and **human-centered AI**, with a specific emphasis on their applications in improving the future of special education. 
 
-My current research, as part of [Rapid Online Assessment of Reading](https://roar.stanford.edu/), aims to create advanced dyslexia screening and progress monitoring tools. In one aspect of my work, I develop an open-source library, [jsCAT](https://github.com/yeatmanlab/jsCAT), enabling real-time, browser-based computerized adaptive testing for broad application in behavioral research. At the same time, I explore the potential of leveraging generative AI, assessment data, and human expertise to scale and diversify the item bank of reading assessments. Currently, [my research](https://roar.stanford.edu/progress-monitoring-study/) evaluates AI-powered reading tutors using the ROAR assessments, with the goal of making resource-intensive interventions paired with progress monitoring—typically conducted by reading specialists in small groups—accessible to all families.
+My current research, as part of [Rapid Online Assessment of Reading](https://roar.stanford.edu/), aims to create advanced dyslexia screening and progress monitoring tools. In one aspect of my work, I develop an open-source library, [jsCAT](https://github.com/yeatmanlab/jsCAT), enabling real-time, browser-based computerized adaptive testing for broad application in behavioral research. At the same time, I explore the potential of leveraging generative AI, assessment data, and human expertise to scale and diversify the item bank of reading assessments.
 
 In 2023, I was awarded as the [Stanford Interdisciplinary Graduate Fellow](https://vpge.stanford.edu/fellowships-funding/sigf/fellows/2023). In 2024, I interned at ETS Research Institute. In 2025, I was selected as the [Stanford HAI Graduate Fellow](https://hai.stanford.edu/). My research has recieved awards from the [Psychometric Society](https://www.psychometricsociety.org/poster-award) and [National Council on Measurement in Education](https://www.ncme.org/home), and has been featured at the [Psychonomic Society](https://featuredcontent.psychonomic.org/the-roar-cats-out-of-the-bag-a-reliable-efficient-reading-assessment/). 
 
@@ -20,7 +20,7 @@ My current **CV** is available for download [here](https://anyawma.github.io/fil
 
 # Education 
 
-**Ph.D. in Education and Ph.D. Minor in Computer Science** (Expected 2026)  
+**Ph.D. in Education and Ph.D. Minor in Computer Science** (2026)  
 Stanford University 
 
 **M.S.Ed. in Learning Sciences and Technologies** (2019)  
@@ -32,6 +32,8 @@ New York University
 # Selected Publications
 Note: *These authors contributed equally to this work
 
+**Ma, W. A.**, Liu, Y., Kanopka, K., Ma, W., & Domingue, B. W. (In press). A comparison of the predictive performance of continuous and class-based latent trait models. Psychological Methods. [PDF](https://osf.io/preprints/psyarxiv/acwdz_v1)
+
 **Ma, W. A.**, Domingue, B. W., Lichand, G., Roncete, K., Klotz, L., Townley-Flores, C., Richie-Halford, A., & Yeatman, J. D. (2026). From the Lab to the Classroom: Bridging Psychophysics and Psychometrics to Improve Adaptive Dyslexia Screening. OSF Preprints. [PDF](https://osf.io/preprints/psyarxiv/4rg5a_v1)
 
 **Ma, W. A.**, Jimenez, M., Siebert, J. M., Saavedra, A., Townley-Flores, C., Richie-Halford, A., Domingue, B. W., & Yeatman, J. D. (2026). Improving validity and efficiency of digital dyslexia screening through trial by trial feedback. Psychological Assessment. [PDF](https://doi.org/10.1037/pas0001474)
@@ -41,7 +43,5 @@ Note: *These authors contributed equally to this work
 **Ma, W. A.**, Flor, M., & Wang, Z. (2025). Automatic generation of inference making questions for
 reading comprehension assessments. 20th Workshop on Innovative Use of NLP for Building Educational
 Applications. [PDF](https://aclanthology.org/anthology-files/pdf/bea/2025.bea-1.31.pdf)
-
-**Ma, W. A.**, Liu, Y., Kanopka, K., W. M., & Domingue, B. W. (2025) A comparison of the predictive performance of continuous and class-based latent trait models. [PDF](https://osf.io/preprints/psyarxiv/acwdz_v1)
 
 Zelikman, E.*, **Ma, W. A.** *, Tran, J. E., Yang, D., Yeatman, J. D., Haber, N. (2023). Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency. 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP. [PDF](https://aclanthology.org/2023.emnlp-main.135/)
